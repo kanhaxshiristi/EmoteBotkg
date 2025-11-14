@@ -1,9 +1,10 @@
-Flask
-protobuf
+requests
+psutil
+PyJWT
+urllib3
 pytz
 aiohttp
-cfonts
-urllib3
-pyjwt
-psutil
+flask
+protobuf
 protobuf-decoder
+cfonts
