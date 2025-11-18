@@ -94,7 +94,7 @@ async def encrypted_proto(encoded_hex):
     return encrypted_payload
     
 async def GeNeRaTeAccEss(uid , password):
-    url = "https://100067.connect.garena.com/oauth/guest/token/grant"
+    url = "https://ffmconnect.live.gop.garenanow.com/oauth/guest/token/grant"
     headers = {
         "Host": "100067.connect.garena.com",
         "User-Agent": (await Ua()),
